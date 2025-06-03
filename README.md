@@ -6,10 +6,10 @@ A clean, modern news reader app built using **React Native** and **Expo**. It di
 
 ### 📷 Screenshots
 
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="SS 1">
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="SS 2">
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="SS 3">
-<img src="https://github.com/user-attachments/assets/22dcb0e6-313b-4815-87d3-b22206549d95" width="200" alt="SS 4">
+<img src="https://github.com/user-attachments/assets/1b21af55-102b-4e6b-8104-7b97a4e26fee" width="200" alt="SS 1">
+<img src="https://github.com/user-attachments/assets/59281e45-5292-4451-a6b8-d6b825017204" width="200" alt="SS 2">
+<img src="https://github.com/user-attachments/assets/fcfaa1f5-789f-4ba3-80b7-6036bf39cb64" width="200" alt="SS 3">
+<img src="https://github.com/user-attachments/assets/baf80947-80c7-4169-86fd-f71cfa1a25ca" width="200" alt="SS 4">
 
 ## 📱 Features
 
