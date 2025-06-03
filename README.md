@@ -29,7 +29,7 @@ A clean, modern news reader app built using **React Native** and **Expo**. It di
 1. Clone the repository:
    ```bash
    git clone https://github.com/soumya007GitHub/React-Native-News.git
-   cd ReactNative-News
+   cd React-Native-News
 2. Install dependencies:
    ```bash
    npm install
